@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TritemiusCipher (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TritemiusCipher (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
